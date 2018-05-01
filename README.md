@@ -9,3 +9,5 @@ Info for mouse input:
 Info for touch input:
 - Swipe left or right to rotate camera
 - Use multitouch to zoom in/out
+
+![demo-gif](https://github.com/steaklive/Orbit-Camera-for-Unity-Demos/blob/master/OrbitCamera_2018_05_01_14_03_14_398.gif)
